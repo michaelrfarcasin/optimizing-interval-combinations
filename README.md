@@ -1,4 +1,4 @@
-# optimizing-interval-combinations
+# Optimizing Interval Combinations
 
 Given a csv with intervals of the form: start, end, cost
 
